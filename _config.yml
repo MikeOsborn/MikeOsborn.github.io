@@ -14,7 +14,7 @@ keep_files:
 title: Oz Motorz
 subtitle: "Electric Bicycles"
 url: "http://mike-osborn.github.io" # the base hostname & protocol for your site
-baseurl: "/ozmotorz-jekyll"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
